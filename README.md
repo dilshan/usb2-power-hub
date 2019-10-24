@@ -1,5 +1,7 @@
 4 Port high power USB hub 
-=========================  
+=====================
+  
+![Prototype version of USB hub](https://raw.githubusercontent.com/dilshan/usb2-power-hub/master/resource/usb-power-hub-prototype.jpg)
 
 This project is about a high current USB 2.0 hub that is specifically designed to drive USB powered development boards and experimental peripherals.
 
@@ -14,4 +16,3 @@ Apart from *FE1.1s* features, this USB hub has the following additional features
 This USB hub uses *PIC16F630* MCU and four units of *LM2596-5.0* switching regulators to achieve the above-listed features. 
 
 This project is an open-source hardware project. All the documentation, design files, firmware source codes, and binaries are available at this github repository.
-
