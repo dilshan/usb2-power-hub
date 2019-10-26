@@ -1,5 +1,5 @@
 4 Port high power USB hub 
-=====================
+=========================
   
 ![Prototype version of USB hub](https://raw.githubusercontent.com/dilshan/usb2-power-hub/master/resource/usb-power-hub-prototype.jpg)
 
@@ -15,4 +15,15 @@ Apart from *FE1.1s* features, this USB hub has the following additional features
 
 This USB hub uses *PIC16F630* MCU and four units of *LM2596-5.0* switching regulators to achieve the above-listed features. 
 
-This project is an open-source hardware project. All the documentation, design files, firmware source codes, and binaries are available at this github repository.
+[All the details related to this project are available at project documentation.](https://github.com/dilshan/usb2-power-hub/wiki)
+
+
+Licenses
+--------
+
+This is an open hardware project and all it's design files, firmware source codes, documentation, and other resource files are available at this project source repository. All the content of this project are distributed under the terms of the following license:
+
+ - Hardware License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+ - Software License: [MIT](https://github.com/dilshan/usb-morse-keyer/blob/master/LICENSE)
+ - Documentation License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
