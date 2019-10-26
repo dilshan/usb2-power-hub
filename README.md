@@ -1,5 +1,7 @@
 4 Port high power USB hub 
 =========================
+
+![Platform](https://img.shields.io/badge/platform-PIC16-blue) ![License](https://img.shields.io/github/license/dilshan/usb2-power-hub) ![Release Version](https://img.shields.io/github/v/release/dilshan/usb2-power-hub) ![Release Date](https://img.shields.io/github/release-date/dilshan/usb2-power-hub)
   
 ![Prototype version of USB hub](https://raw.githubusercontent.com/dilshan/usb2-power-hub/master/resource/usb-power-hub-prototype.jpg)
 
